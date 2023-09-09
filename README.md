@@ -11,7 +11,7 @@ The World Health Organization has been generating significant press for a recent
 
 
 ### The Brief: 
-For this project, I have to apply predictive analytics tools in Tableau to ***explore trends***, ***build forecasts***, and ***conduct a cluster analysis*** using the ***[following](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)*** WHO life expectancy dataset.
+For this project, I have to apply predictive analytics tools in Tableau to ***explore trends***, ***build forecasts***, and ***conduct a cluster analysis*** using the **[following](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)** WHO life expectancy dataset.
 
 
 
@@ -25,6 +25,8 @@ Use Tableau Desktop to:
 ## Predictive Analytics
 Predictive Analytics is the practice of using statistical and machine learning techniques to analyze historical data and make predictions about future events or trends. It involves leveraging patterns and relationships within data to forecast outcomes, identify trends, and make informed decisions.
 ***
+
+To access the detailed results and interactive visualizations of our predictive analytics project, please visit the **[Tableau Dashboard](https://public.tableau.com/views/GlobalLifeExpectancyAnalytics_16940059668550/GlobalLifeExpectancy?:language=en-US&:display_count=n&:origin=viz_share_link)**.
 
 ## Trend Line and Forecast:
 
